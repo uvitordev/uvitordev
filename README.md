@@ -14,12 +14,10 @@ Em 2025, vou começar o ano com **muita determinação e foco** para entregar os
 - [Portfólio](https://meuportfolio.com)
 
 ---
+# Back-End
+- Lua
 
 # Front-End
 - HTML5
 - CSS3
 - JavaScript
-
-# Ferramentas
-- Git & GitHub
-- Figma (para protótipos)
