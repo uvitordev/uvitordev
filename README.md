@@ -6,16 +6,13 @@ Meu nome é **Vitor Hugo**, tenho 20 anos e sou de **Franca, SP**. Sou freelance
 
 Sempre fui apaixonado por **Desenvolvimento Frontend**, mas a minha jornada começou no **Back-End**. Após um tempo trabalhando e estudando, percebi que minha verdadeira paixão estava em criar interfaces. Agora, estou 100% focado em Front-End. Buscando sempre **aprender linguagens e ferramentas novas e criar soluções que encantem os usuários.**
 
-Em 2025, vou começar o ano com **muita determinação e foco** para entregar os melhores projetos e continuar evoluindo como profissional. Se você tem um projeto em mente e precisa de uma interface bonita, moderna, funcional e agradável. 
-**Entre em contato comigo**. Vamos fazer o seu projeto o melhor e o mais incrível de todos!
+Em 2025, vou começar o ano com **muita determinação e foco** para entregar os melhores projetos e continuar evoluindo como profissional. 
 
-📩 **Precisando de um novo projeto para sua empresa?** Entre em contato!
+📩 Meios de Contato:
 
-- [Portfólio](https://meuportfolio.com)
+- [GitHub](https://github.com/uvitordev)
 
----
-## Back-End
-- Lua
+# Minhas habilidades atuais
 
 ## Front-End
 - HTML5
