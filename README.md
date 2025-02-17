@@ -8,10 +8,8 @@ Sempre fui apaixonado por **Desenvolvimento Front-end**, mas a minha jornada com
 
 Em 2025, vou começar o ano com **muita determinação e foco** para entregar os melhores projetos e continuar evoluindo como profissional. 
 
-📩 Meios de Contato:
-- [Portfólio](https://uvitordev.vercel.app/)
+# 📩 Minhas Habilidades:
 
-# Habilidades
 - HTML5
 - CSS3
 - JavaScript
