@@ -6,9 +6,9 @@ Nesse ano de 2025, vou começar o ano com **muito foco, disciplina e execução.
 
 ## 🎯 Minhas Habilidades:
 
-#### Back-end
+### Back-end
 - LUA
 
-#### Front-end
+### Front-end
 - HTML5
 - CSS3
