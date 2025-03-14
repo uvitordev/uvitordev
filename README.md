@@ -4,18 +4,16 @@ Meu nome é **Vitor Hugo**, tenho **20 anos** e sou de **Franca, SP**. Sou estud
 
 ---
 
-## 🎯 Minhas Habilidades:
+## `🎯` Minhas Habilidades:
 
-## `👨‍💻` Tecnologias
-
-#### ⚙️ Back-end
+### ⚙️ Back-end
 - **LUA** (cfx.re)
 
-#### 💻 Front-end
+### 💻 Front-end
 - **HTML5**
 - **CSS3**
 
-#### 📚 Estudando
+### 📚 Estudando
 - **Go (Golang)**
 
 ---
