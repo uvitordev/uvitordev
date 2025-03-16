@@ -19,17 +19,10 @@
   <h3><code>🛠️</code> Ferramentas</h3>
   <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" height="40" alt="Icons Ferramentas" />
   <!-- Sistema Operacional -->
-  <h3><code>🚀</code> Sistema Operacional</h3>
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="40" alt="Icons Sistema Operacional" />
+<!--   <h3><code>🚀</code> Sistema Operacional</h3>
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="40" alt="Icons Sistema Operacional" /> -->
 </div>
 
 ---
-
-## `☎️` Meios de Contato
-
-### `⏰` Horário de atendimento das **07:00 ás 16:00**
-<div>
-  <img src="https://skillicons.dev/icons?i=discord,instagram&theme=dark" height="35" alt="Icons Backend" />
-</div>
 
 ###### Copyright © 2025 / [Vitor Hugo](https://github.com/uvitordev)
