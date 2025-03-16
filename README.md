@@ -1,6 +1,6 @@
 # Olá, Pessoal! `👋🏽`
 
-Meu nome é **Vitor Hugo**, tenho **20 anos** e sou de **Franca, SP**. Sou estudante de **Desenvolvimento Back-end**.
+Meu nome é **Vitor Hugo**, tenho **20 anos** e sou de **Franca, SP**. Atualmente estudante de **Desenvolvimento Back-end**.
 
 ---
 
