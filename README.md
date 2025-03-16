@@ -1,25 +1,40 @@
-## 🖤 Olá, meu nome é Vitor Hugo!
+# `👋🏽` Olá, meu nome é Vitor Hugo!
 
-Tenho **20 anos** e sou de **Franca, SP**. Atualmente estudante de **Desenvolvimento Back-end**.
+### `🎓` Estudante de **Desenvolvimento Back-end**
 
-🔭 QuizGame - Golang
-
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
+- Tenho 20 anos e atualmente estou **estudando Go (Golang)**, com foco em back-end, e tenho experiência na construção de interfaces utilizando apenas **HTML**, **CSS** e **JS**. Estou sempre em busca de novos desafios e aprendizados na área de desenvolvimento, com o objetivo de aprimorar minhas habilidades e criar soluções perfeita e diferentes.
 
 ---
 
-## `🚀` Minhas Skills
+## `🚀` Conhecimentos
 
 ### `⚙️` Back-end
 <div>
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Golang" />
-<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Golang"/>
+  <img src="https://skillicons.dev/icons?i=lua,go&theme=dark" alt="Icons Backend" />
+</div> 
+
+### `💻` Front-end
+<div>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Icons Backend" />
 </div>
 
-- **LUA** (cfx.re)
+### `🛠️` Ferramentas
+<div>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Icons Backend" />
+</div>
 
-### `📚` Estudando
-<img src="https://img.shields.io/badge/Go-f8efd4?style=for-the-badge&logo=go&logoColor=black"/>
+### `🧩` Sistema Operacional
+<div>
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Icons Backend" />
+</div>
 
 ---
-## ⭐ GitHub Stats![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
+
+## `☎️` Meios de Contato
+
+### `⏰` Horário de atendimento das **07:00 ás 16:00**
+<div>
+  <img src="https://skillicons.dev/icons?i=discord,instagram&theme=dark" alt="Icons Backend" />
+</div>
+
+##### Copyright © 2025 / [Vitor Hugo](https://github.com/uvitordev)
