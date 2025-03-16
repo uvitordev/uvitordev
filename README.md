@@ -6,12 +6,12 @@ Meu nome é **Vitor Hugo**, tenho **20 anos** e sou de **Franca, SP**. Sou estud
 
 ## `🎯` Minhas Habilidades:
 
-### ⚙️ Back-end
+### `⚙️` Back-end
 - **LUA** (cfx.re)
 
-### 📚 Estudando
+### `📚` Estudando
 - **Go (Golang)**
 
 ---
-## 🤝 Conecte-se Comigo
+## `🤝` Acessar meu site
 - [GitHub](https://github.com/uvitordev)
