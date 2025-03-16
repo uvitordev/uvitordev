@@ -10,7 +10,7 @@ Meu nome é **Vitor Hugo**, tenho **20 anos** e sou de **Franca, SP**. Atualment
 - **LUA** (cfx.re)
 
 ### `📚` Estudando
-- **Go (Golang)**
+<img src="https://img.shields.io/badge/Go-f8efd4?style=for-the-badge&logo=go&logoColor=black"/>
 
 ---
 ## `🤝` Acessar meu site
