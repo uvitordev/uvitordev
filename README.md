@@ -1,31 +1,26 @@
-# `👋🏽` Olá, meu nome é Vitor Hugo!
+## `👋🏽` Olá, meu nome é Vitor Hugo!
 
 ### `🎓` Estudante de **Desenvolvimento Back-end**
 
-- Tenho 20 anos e atualmente estou **estudando Go (Golang)**, com foco em back-end, e tenho experiência na construção de interfaces utilizando apenas **HTML**, **CSS** e **JS**. Estou sempre em busca de novos desafios e aprendizados na área de desenvolvimento, com o objetivo de aprimorar minhas habilidades e criar soluções perfeita e diferentes.
+###### Tenho 20 anos e atualmente estou **estudando Go (Golang)**, com foco em back-end, e tenho experiência na construção de interfaces utilizando apenas **HTML**, **CSS** e **JS**. Estou sempre em busca de novos desafios e aprendizados na área de desenvolvimento, com o objetivo de aprimorar minhas habilidades e criar soluções perfeita e diferentes.
 
 ---
 
-## `🚀` Conhecimentos
+## `🧠` Conhecimentos
 
-### `⚙️` Back-end
 <div>
-  <img src="https://skillicons.dev/icons?i=lua,go&theme=dark" alt="Icons Backend" />
-</div> 
-
-### `💻` Front-end
-<div>
-  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" alt="Icons Backend" />
-</div>
-
-### `🛠️` Ferramentas
-<div>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Icons Backend" />
-</div>
-
-### `🧩` Sistema Operacional
-<div>
-  <img src="https://skillicons.dev/icons?i=windows&theme=dark" alt="Icons Backend" />
+  <!-- Back-end -->
+  <h3><code>⚙️</code> Back-end</h3>
+  <img src="https://skillicons.dev/icons?i=lua,go&theme=dark" height="40" alt="Icons Back-end" />
+  <!-- Front-End -->
+  <h3><code>💻</code> Front-end</h3>
+  <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="40" alt="Icons Front-end" />
+  <!-- Ferramentas -->
+  <h3><code>🛠️</code> Ferramentas</h3>
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" height="40" alt="Icons Ferramentas" />
+  <!-- Sistema Operacional -->
+  <h3><code>🚀</code> Sistema Operacional</h3>
+  <img src="https://skillicons.dev/icons?i=windows&theme=dark" height="40" alt="Icons Sistema Operacional" />
 </div>
 
 ---
@@ -34,7 +29,7 @@
 
 ### `⏰` Horário de atendimento das **07:00 ás 16:00**
 <div>
-  <img src="https://skillicons.dev/icons?i=discord,instagram&theme=dark" alt="Icons Backend" />
+  <img src="https://skillicons.dev/icons?i=discord,instagram&theme=dark" height="35" alt="Icons Backend" />
 </div>
 
-##### Copyright © 2025 / [Vitor Hugo](https://github.com/uvitordev)
+###### Copyright © 2025 / [Vitor Hugo](https://github.com/uvitordev)
