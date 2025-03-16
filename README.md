@@ -20,7 +20,7 @@
 
 ### `🛠️` Ferramentas
 <div>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Icons Backend" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github&theme=dark" alt="Icons Backend" />
 </div>
 
 ### `🧩` Sistema Operacional
