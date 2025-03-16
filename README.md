@@ -6,9 +6,10 @@
 
 ---
 
-## `🧠` Conhecimentos
-
 <div>
+
+  <h1><code>🧠</code> Conhecimentos</h1>
+
   <!-- Back-end -->
   <h3><code>⚙️</code> Back-end</h3>
   <img src="https://skillicons.dev/icons?i=lua,go&theme=dark" height="40" alt="Icons Back-end" />
